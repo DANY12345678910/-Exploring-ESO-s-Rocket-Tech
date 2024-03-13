@@ -11,7 +11,7 @@
 
 ### PCB Visuals:
 - **Timer PCB:**
-  - [Timer PCB Image](![Minuterie face](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/d052a6b7-96b6-4555-a3ae-9907d2e9598c))
-  - [Timer PCB Schematic](![minuterie_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/3f2dfc52-20b3-4f48-bfc4-9a8568ba1bf6))
-  - [Communication PCB Image](![COMface](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/13363642-81b2-40f9-b306-ba6078b56bf6))
-  - [Communication PCB Schematic](![COM_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/3fda4114-9a08-429e-b82c-023f972a986e))
+  - [Timer PCB Image] https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/d052a6b7-96b6-4555-a3ae-9907d2e9598c
+  - [Timer PCB Schematic] https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/3f2dfc52-20b3-4f48-bfc4-9a8568ba1bf6
+  - [Communication PCB Image] https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/13363642-81b2-40f9-b306-ba6078b56bf6
+  - [Communication PCB Schematic] https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/3fda4114-9a08-429e-b82c-023f972a986e
