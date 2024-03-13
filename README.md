@@ -13,15 +13,23 @@
 Ever wondered how those tiny green boards make your gadgets tick? Let's take a simple stroll through the world of Printed Circuit Boards (PCBs). These small but mighty boards are the unsung heroes behind your electronic devices. Today, we'll dig into the basics: schematics, layouts, copper traces, vias, ground planes, and pads.
 
 - **PCB 3D:**
+  -Here is a 3D visual of the board available on Altium!
   ![COMface](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/e9e99f71-82b4-4efa-b843-8220862eb645)
+  
   ![Timer PCB Image](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/d052a6b7-96b6-4555-a3ae-9907d2e9598c)
   
 - **PCB Schematic: Where Ideas Take Shape**
   - Picture a Map of Circuits
      Think of schematics as a treasure map, but for engineers. Instead of X marking the spot, symbols represent electronic parts like resistors and chips.          Lines show how these parts connect, forming a roadmap for electrons to follow and the relationships between components.
-  ![minuterie_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/7e60ca0e-22a4-4c2c-b0bc-c84f25289a40) 
+  -Here is the simple schematic for the Timer Board:
+
+  ![minuterie_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/7e60ca0e-22a4-4c2c-b0bc-c84f25289a40)
+  
+ -Here is the even simpler schematic for the Communicationc board:
+
   ![COM_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/98f389e9-222b-4856-bf7c-5e7dab516c87)
--**PCB Layout:Putting Pieces in Place
+  
+-**PCB Layout:Putting Pieces in Place**
   -Like a Puzzle, but Better
     Once the map is ready, it's time to put things on the board. Imagine it's a puzzle where each piece (component) has its place. Engineers carefully arrange     them, considering space, heat, and making sure everything works smoothly.
 
