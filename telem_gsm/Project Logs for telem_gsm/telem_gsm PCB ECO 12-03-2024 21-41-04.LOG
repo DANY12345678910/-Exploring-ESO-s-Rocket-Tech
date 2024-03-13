@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-29
+Removed Pin From Net: NetName=GND Pin=U1-30
+Removed Pin From Net: NetName=GND Pin=U1-35
+Removed Pin From Net: NetName=GND Pin=U1-36
+Removed Pin From Net: NetName=SCK TELEM Pin=U1-49
+Removed Pin From Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=busy telem Pin=J2-2
+Added Pin To Net: NetName=busy telem Pin=U1-9
+Added Net: Name=busy telem
+Added Pin To Net: NetName=CS TELEM Pin=J2-5
+Added Pin To Net: NetName=CS TELEM Pin=U1-14
+Added Net: Name=CS TELEM
+Added Pin To Net: NetName=DIO1 TELEM Pin=J3-6
+Added Pin To Net: NetName=DIO1 TELEM Pin=U1-6
+Added Net: Name=DIO1 TELEM
+Added Pin To Net: NetName=DIO2 TELEM Pin=J3-8
+Added Pin To Net: NetName=DIO2 TELEM Pin=U1-5
+Added Net: Name=DIO2 TELEM
+Added Pin To Net: NetName=MISO TELEM Pin=J2-7
+Added Pin To Net: NetName=MISO TELEM Pin=U1-11
+Added Net: Name=MISO TELEM
+Added Pin To Net: NetName=MOSI TELEM Pin=J2-8
+Added Pin To Net: NetName=MOSI TELEM Pin=U1-12
+Added Net: Name=MOSI TELEM
+Added Pin To Net: NetName=reset_telem Pin=J2-1
+Added Pin To Net: NetName=reset_telem Pin=U1-10
+Added Net: Name=reset_telem
+Added Pin To Net: NetName=RX EN Pin=J2-3
+Added Pin To Net: NetName=RX EN Pin=U1-3
+Added Net: Name=RX EN
+Added Pin To Net: NetName=TX EN Pin=J2-4
+Added Pin To Net: NetName=TX EN Pin=U1-4
+Added Net: Name=TX EN
