@@ -13,37 +13,39 @@
 Ever wondered how those tiny green boards make your gadgets tick? Let's take a simple stroll through the world of Printed Circuit Boards (PCBs). These small but mighty boards are the unsung heroes behind your electronic devices. Today, we'll dig into the basics: schematics, layouts, copper traces, vias, ground planes, and pads.
 
 - **PCB 3D:**
-  -Here is a 3D visual of the board available on Altium!
+  - Here is a 3D visual of the board available on Altium!
+    
   ![COMface](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/e9e99f71-82b4-4efa-b843-8220862eb645)
   
   ![Timer PCB Image](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/d052a6b7-96b6-4555-a3ae-9907d2e9598c)
   
 - **PCB Schematic: Where Ideas Take Shape**
   - Picture a Map of Circuits
-     Think of schematics as a treasure map, but for engineers. Instead of X marking the spot, symbols represent electronic parts like resistors and chips.          Lines show how these parts connect, forming a roadmap for electrons to follow and the relationships between components.
-  -Here is the simple schematic for the Timer Board:
+    Think of schematics as a treasure map, but for engineers. Instead of X marking the spot, symbols represent electronic parts like resistors and chips.          Lines show how these parts        connect, forming a roadmap for electrons to follow and the relationships between components.
+   - Here is the simple schematic for the Timer Board:
 
   ![minuterie_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/7e60ca0e-22a4-4c2c-b0bc-c84f25289a40)
   
- -Here is the even simpler schematic for the Communicationc board:
+  - Here is the even simpler schematic for the Communicationc board:
 
   ![COM_sch](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/98f389e9-222b-4856-bf7c-5e7dab516c87)
   
 -**PCB Layout:Putting Pieces in Place**
-  -Like a Puzzle, but Better
-    Once the map is ready, it's time to put things on the board. Imagine it's a puzzle where each piece (component) has its place. Engineers carefully arrange     them, considering space, heat, and making sure everything works smoothly.
+ - Like a Puzzle, but Better
+    Once the map is ready, it's time to put things on the board. Imagine it's a puzzle where each piece (component) has its place. Engineers carefully arrange them, considering space, heat, and making sure everything works smoothly.
 
--Copper Traces: 
-  Think of Them as Electron Roads, Copper traces are like roads on our PCB. They guide electrons to where they need to go. Engineers need to plan these paths    carefully, thinking about size, thickness, and where the roads lead, so the signals don't get stuck in traffic.
--Vias: Secret Tunnels Between Layers
+ - Copper Traces: 
+  Think of Them as Electron Roads, Copper traces are like roads on our PCB. They guide electrons to where they need to go. Engineers need to plan these paths carefully, thinking about size, thickness, and where the roads lead, so the signals don't get stuck in traffic.
+ - Vias: Secret Tunnels Between Layers
 
- In fancy multi-layer PCBs, vias are like secret tunnels connecting different layers. They help signals travel up and down, making sure everything stays        connected and works like a charm.
+ In fancy multi-layer PCBs, vias are like secret tunnels connecting different layers. They help signals travel up and down, making sure everything stays connected and works like a charm.
  
--Ground Planes: The Steady Supporters
-  Ground planes act like the solid ground beneath our feet. They help stabilize the signals, making sure everything runs smoothly. Think of them as the glue     holding everything together.
+ - Ground Planes: The Steady Supporters
+  Ground planes act like the solid ground beneath our feet. They help stabilize the signals, making sure everything runs smoothly. Think of them as the glue holding everything together.
   Pads: Where Components Meet
--Connection Points
-  Pads are where electronic components shake hands with the copper traces. They come in different shapes and sizes, and how they're designed makes sure        everything connects well and stays that way.
+ - Connection Points
+  Pads are where electronic components shake hands with the copper traces. They come in different shapes and sizes, and how they're designed makes sure everything connects well and stays that way.
+- Here are the insides of the Timer PCB:
   
 ![Minuteriededans](https://github.com/DANY12345678910/-Exploring-ESO-s-Rocket-Tech/assets/107304619/2fabacaf-7f56-481e-bc5f-82ec20e9e9c9)
 
